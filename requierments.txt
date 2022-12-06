@@ -1,3 +1,7 @@
 pandas 
 numpy
 tensorflow
+sklearn
+pytorch
+json
+boto3
